@@ -1,0 +1,29 @@
+{
+  "name": "input-patterns",
+  "version": "0.0.0",
+  "description": "A collection of regular expression validation patterns from http://html5pattern.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlmungazi/input-patterns.git"
+  },
+  "keywords": [
+    "validation",
+    "html5",
+    "forms",
+    "patterns",
+    "input"
+  ],
+  "author": "Carl Mungazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlmungazi/input-patterns/issues"
+  },
+  "homepage": "https://github.com/carlmungazi/input-patterns#readme",
+  "devDependencies": {
+    "ava": "1.0.0-rc.2"
+  }
+}
