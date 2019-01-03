@@ -1,7 +1,7 @@
 {
   "name": "input-patterns",
   "version": "0.0.0",
-  "description": "A collection of regular expression validation patterns from http://html5pattern.com/",
+  "description": "A collection of useful regular expression validation patterns from http://html5pattern.com and other sources",
   "main": "index.js",
   "scripts": {
     "test": "ava"
