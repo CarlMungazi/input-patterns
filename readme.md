@@ -10,9 +10,12 @@ $ npm install input-patterns
 
 ## Usage
 
-```js
-const inputPatterns = require('input-patterns');
+```html
+<script>
+const pattern = require('input-patterns');
+</script>
 
+<input type="text" pattern=`${pattern.alphaNumeric}` title="Please use only alpha-numeric characters">
 ```
 
 ## License

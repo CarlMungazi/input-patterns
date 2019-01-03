@@ -1,3 +1,7 @@
+/**
+  Use https://regex101.com/ for a detailed explanation of each regex
+*/
+
 module.exports = {
   // Only allow alpha-numeric characters
   // Explanation: The provided string must have one or more characters within the a-z, A-Z and 0-9 ranges
